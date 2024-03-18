@@ -14,7 +14,7 @@ export const NavbarComponent = () => {
         <Navbar.Link className="text-white" href="/">
           Home
         </Navbar.Link>
-        <Navbar.Link className="text-white" href="#">
+        <Navbar.Link className="text-white" href="/enroll">
           Enroll
         </Navbar.Link>
         <Navbar.Link className="text-white" href="#">Course</Navbar.Link>

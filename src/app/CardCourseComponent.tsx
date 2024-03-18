@@ -1,7 +1,7 @@
 export const CardCourseComponent = () => {
     return (
       <>
-          <h1 className="w-10/12 mx-auto text-3xl mb-5 font-bold">COURSES</h1>
+          <h1 className="w-10/12 mx-auto text-3xl mb-5 mt-10 font-bold">COURSES</h1>
           <div className="w-10/12 mx-auto grid grid-cols-1 2xl:grid-cols-2 xl:grid-cols-3 lg:grid-cols-6 md:grid-cols-6 sm:grid-cols-2 gap-8">
               <FlutterCard/>
               <DevOpsCard/>
