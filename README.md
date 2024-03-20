@@ -2,7 +2,7 @@
 
 Welcome to the CSTAD New Version website! This project is built using Next.js, a React framework for building server-side rendered and statically generated web applications.
 
-## Quick Start 🚀
+## Quick Start 🎓
 
 To get started with the CSTAD New Version project, follow these steps:
 
@@ -25,7 +25,7 @@ To get started with the CSTAD New Version project, follow these steps:
 
 Feel free to explore different sections of the website using the provided navigation links.
 
-## Contributing 💬
+## Contributing ✍️
 
 Contributions to the CSTAD New Version project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
