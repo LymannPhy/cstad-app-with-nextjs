@@ -1,6 +1,6 @@
 import React from "react";
 
-export function EnrollmentForm() {
+const enrollmentPage = () => {
   return (
     <section className="w-[80%] mx-auto">
       <div className="min-h-screen p-6 flex items-center justify-center">
@@ -107,4 +107,4 @@ export function EnrollmentForm() {
   );
 }
 
-export default EnrollmentForm;
+export default enrollmentPage;

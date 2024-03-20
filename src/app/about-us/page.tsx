@@ -88,7 +88,7 @@ const aboutUspage = () => {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1 lg:gap-12 gap-10">
                   {/* <!-- Team Card --> */}
                   <div className="flex p-4 shadow-md">
-                    <div>
+                    <div className="mr-6">
                       <svg className="mr-6" width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M18 15C20.4853 15 22.5 12.9853 22.5 10.5C22.5 8.01472 20.4853 6 18 6C15.5147 6 13.5 8.01472 13.5 10.5C13.5 12.9853 15.5147 15 18 15Z" stroke="#1F2937" strokeWidth="2.75" strokeLinecap="round" strokeLinejoin="round" />
                         <path d="M25.5 28.5C27.9853 28.5 30 26.4853 30 24C30 21.5147 27.9853 19.5 25.5 19.5C23.0147 19.5 21 21.5147 21 24C21 26.4853 23.0147 28.5 25.5 28.5Z" stroke="#1F2937" strokeWidth="2.75" strokeLinecap="round" strokeLinejoin="round" />
@@ -126,7 +126,7 @@ const aboutUspage = () => {
                       </svg>
                     </div>
                     <div className="">
-                      <p className="font-semibold lg:text-2xl text-xl lg:leading-6 leading-5 text-gray-800">Core Value</p>
+                      <p className="font-semibold lg:text-2xl text-xl lg:leading-6 leading-5 text-gray-800"></p>
                       <p className="mt-2 font-normal text-base leading-6 text-gray-600">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                     </div>
                   </div>
