@@ -1,6 +1,4 @@
-# Function to generate the README content
-def generate_readme():
-    readme_content = """# CSTAD New Version 🌟🚀
+# CSTAD New Version 🚀🌟🚀
 
 Welcome to the CSTAD New Version website! This project is built using Next.js, a React framework for building server-side rendered and statically generated web applications.
 
