@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CSTAD New Version 🚀🌟🚀
 
-## Getting Started
+Welcome to the CSTAD New Version website! This project is built using Next.js, a React framework for building server-side rendered and statically generated web applications.
 
-First, run the development server:
+## Quick Start 🎓
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+To get started with the CSTAD New Version project, follow these steps:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Clone the repository: git clone https://github.com/LymannPhy/cstad-app-with-nextjs.git
+2. Navigate to the project directory: cd cstad-app-with-nextjs
+3. Install dependencies: npm install
+4. To start development: npm run dev
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+5. Open your browser and visit [http://localhost:3000/](http://localhost:3000/) to view the home page of the CSTAD New Version website.
 
-## Learn More
+## Navigation Links 🌐
 
-To learn more about Next.js, take a look at the following resources:
+- **Home:** [http://localhost:3000/](http://localhost:3000/)
+- **Enroll:** [http://localhost:3000/enroll](http://localhost:3000/enroll)
+- **Course:** [http://localhost:3000/course-page](http://localhost:3000/course-page)
+- **IT News:** [http://localhost:3000/news](http://localhost:3000/news)
+- **IT Job Opportunity:** [http://localhost:3000/job](http://localhost:3000/job)
+- **About Us:** [http://localhost:3000/about-us](http://localhost:3000/about-us)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Feel free to explore different sections of the website using the provided navigation links.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing ✍️
 
-## Deploy on Vercel
+Contributions to the CSTAD New Version project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License 📝
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the [MIT License](LICENSE).
+"""
+ return readme_content
+
