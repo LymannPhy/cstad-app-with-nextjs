@@ -20,7 +20,7 @@ export const CardCourseComponent = () => {
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                                     </svg>
                                 </span>
-                                <p>1:34:23 Minutes</p>
+                                <p>50:34:23 Minutes</p>
                             </div>
                             <div className="flex space-x-1 items-center">
                                 <span>
@@ -38,7 +38,7 @@ export const CardCourseComponent = () => {
                                 </span>
                                 <p>Vanilla JS</p>
                             </div>
-                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">Buy Lesson</button>
+                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">View Details</button>
                         </div>
                     </div>
                     <div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -74,7 +74,7 @@ export const CardCourseComponent = () => {
                                 </span>
                                 <p>TypeScript</p>
                             </div>
-                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">Start Watching Now</button>
+                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">View Details</button>
                         </div>
                     </div>
                     <div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -109,7 +109,7 @@ export const CardCourseComponent = () => {
                                 </span>
                                 <p>Vanilla JS</p>
                             </div>
-                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">Buy Lesson</button>
+                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">View Details</button>
                         </div>
                     </div>
                     <div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -144,7 +144,7 @@ export const CardCourseComponent = () => {
                                 </span>
                                 <p>Vanilla JS</p>
                             </div>
-                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">Buy Lesson</button>
+                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">View Details</button>
                         </div>
                     </div>
                     <div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -180,7 +180,7 @@ export const CardCourseComponent = () => {
                                 </span>
                                 <p>TypeScript</p>
                             </div>
-                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">Start Watching Now</button>
+                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">View Details</button>
                         </div>
                     </div>
                     <div className="max-w-sm bg-white px-6 pt-6 pb-2 rounded-xl shadow-lg transform hover:scale-105 transition duration-500">
@@ -216,7 +216,7 @@ export const CardCourseComponent = () => {
                                 </span>
                                 <p>TypeScript</p>
                             </div>
-                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">Start Watching Now</button>
+                            <button className="mt-4 w-full text-white bg-indigo-600 py-2 rounded-xl shadow-lg">View Details</button>
                         </div>
                     </div>
                 </div>
